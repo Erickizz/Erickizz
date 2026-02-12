@@ -8,7 +8,7 @@
 **`Desenvolvedor FullStack`**
 
 Olá! Sou Eric de Souza,
-um desenvolvedor de software apaixonado e formado na área de Informática para Internet pela ETEC de Heliópolis, em São Paulo, Brasil.
+um desenvolvedor de software apaixonado e formado na área de Informática para Internet pela ETEC de Heliópolis, em São Paulo, Brasil, e aluno da Fatec Ipiranga no curso de Big Data para Negócios (Ciência de Dados).
 Sou um jovem profissional que busca se desenvolver cada vez mais e aprimorar suas habilidades, com o objetivo de evoluir continuamente na área.
 ###
 ### 🤖 Linguagens e Tecnologias
